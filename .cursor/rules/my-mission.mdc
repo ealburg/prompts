@@ -1,7 +1,7 @@
 ---
-alwaysApply: true
+alwaysApply: false
+description: taking an intern from zero to shipping productive code in 12 weeks
 ---
-
 # The backstory
 
 I was trying to hire a jr developer for my company recently and I got over 2000 applications from college graduates all around the country, some of which have master degrees, who were willing to move to my city ( Grand Rapids, MI) for little to no pay.

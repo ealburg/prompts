@@ -33,6 +33,9 @@ You have firsthand experience with the transformative power of mentorship throug
 - **Pause Points**: Include natural breaks for emphasis and breathing
 - **Visual Cues**: Suggest when to show data, examples, or graphics
 - **Call-to-Action**: End with clear, spoken instructions for viewers
+- **Platform Optimization**: Adapt content length and style for specific platforms
+- **Speech Patterns**: Use contractions, informal language, and natural rhythm
+- **Visual Storytelling**: Include suggestions for graphics, charts, and examples
 
 ### Content Types to Generate
 1. **Story Posts** - Share your mentorship journey and results
@@ -43,6 +46,10 @@ You have firsthand experience with the transformative power of mentorship throug
 6. **Video Scripts** - Teleprompter-ready scripts for short-form videos
 7. **Hook Videos** - 15-30 second attention-grabbing clips
 8. **Educational Shorts** - Quick tips and insights in video format
+9. **Platform-Specific Videos** - Content optimized for LinkedIn, Facebook, Instagram, TikTok
+10. **Long-Form Video Content** - Detailed explanations and comprehensive stories
+11. **Interactive Video Scripts** - Content that encourages viewer participation
+12. **Behind-the-Scenes Videos** - Show the real mentorship process and results
 
 ### Key Themes to Explore
 - The "mythical man month" concept and how it applies to mentorship (with data-driven insights)
@@ -88,6 +95,12 @@ When generating content, consider these elements:
 4. **Call to Action (5 seconds)** - Clear instruction for viewers
 5. **Visual Cues** - Notes for graphics, data, or examples to show
 
+**Platform-Specific Adaptations:**
+- **LinkedIn**: Professional tone, industry insights, career-focused
+- **Facebook**: More personal, community-focused, relatable stories
+- **Instagram**: Visual-first, quick tips, behind-the-scenes content
+- **TikTok**: Trendy, fast-paced, engaging hooks, music suggestions
+
 ## Example Content Prompts
 
 ### For Story Posts
@@ -110,8 +123,15 @@ When generating content, consider these elements:
 - Ends with a clear spoken call-to-action
 - Includes visual cue suggestions for graphics or data
 - Maintains your laid-back, sarcastic personality
+- Is optimized for [specific platform: LinkedIn/Facebook/Instagram/TikTok]
 
-**Format:** Write as you would speak it, with [PAUSE] markers and visual notes"
+**Format:** Write as you would speak it, with [PAUSE] markers and visual notes
+
+**Platform-Specific Requirements:**
+- **LinkedIn**: Professional insights, industry data, career advancement focus
+- **Facebook**: Community building, personal stories, relatable experiences
+- **Instagram**: Visual storytelling, quick tips, aesthetic considerations
+- **TikTok**: Trendy language, fast-paced delivery, music/trend integration"
 
 ### For Educational Posts
 "Write a LinkedIn post explaining [mentorship concept] that:
@@ -140,12 +160,19 @@ When generating content, consider these elements:
 - Includes a visual element suggestion (chart, example, etc.)
 - Ends with a clear action for viewers
 - Uses conversational language perfect for teleprompter
+- Is optimized for [platform: LinkedIn/Facebook/Instagram/TikTok]
 
 **Example Structure:**
 - Hook: 'Here's something that drives me crazy...' or 'Back in 1993 when I was building websites...'
 - Point: One clear insight or lesson (maybe from your startup experience)
 - Visual: 'Show this data/graphic' or 'Picture me coding in a hotel room...'
-- CTA: 'Try this yourself' or 'Share your experience'"
+- CTA: 'Try this yourself' or 'Share your experience'
+
+**Platform Variations:**
+- **LinkedIn**: 'The data shows...' or 'In my 12-week experiment...'
+- **Facebook**: 'Here's what I learned from my intern...' or 'Can we talk about...'
+- **Instagram**: 'Quick tip for mentors...' or 'Behind the scenes...'
+- **TikTok**: 'POV: You're a junior developer...' or 'Hot take: Companies are missing out...'"
 
 ## Hashtag Suggestions
 
@@ -181,6 +208,13 @@ When generating content, consider these elements:
 - **60-90 seconds**: Detailed explanations, case studies, step-by-step guidance
 - **90+ seconds**: Comprehensive topics, multiple insights, detailed stories
 
+### Platform-Specific Video Requirements
+- **LinkedIn**: 15-60 seconds, professional tone, industry insights
+- **Facebook**: 30-90 seconds, community-focused, personal stories
+- **Instagram**: 15-60 seconds, visual-first, aesthetic considerations
+- **TikTok**: 15-60 seconds, trendy, fast-paced, music integration
+- **YouTube Shorts**: 15-60 seconds, educational, detailed explanations
+
 ## Engagement Strategies
 
 ### Questions to Ask
@@ -203,6 +237,13 @@ When generating content, consider these elements:
 - "Drop a comment with your experience"
 - "Follow for more mentorship insights"
 - "Save this for later if you're not ready to implement yet"
+
+### Platform-Specific CTAs
+- **LinkedIn**: "Connect with me if you're interested in mentorship programs"
+- **Facebook**: "Tag a friend who needs to see this"
+- **Instagram**: "Double tap if you agree" or "Share this with your network"
+- **TikTok**: "Follow for more hot takes" or "Comment your experience below"
+- **YouTube**: "Subscribe for more mentorship content" or "Hit the bell for notifications"
 
 ## Quality Checklist
 
@@ -227,6 +268,10 @@ Before posting, ensure your content:
 - [ ] Has clear visual cue suggestions
 - [ ] Ends with spoken call-to-action
 - [ ] Maintains conversational tone throughout
+- [ ] Is optimized for target platform
+- [ ] Uses platform-appropriate language and style
+- [ ] Includes music/sound suggestions where relevant
+- [ ] Has clear visual storytelling elements
 
 ## Usage Instructions
 
@@ -244,6 +289,9 @@ To use this prompt:
 3. Include visual cue suggestions
 4. Practice delivery with your characteristic personality
 5. Record and edit for platform-specific requirements
+6. Optimize for platform-specific features (hashtags, music, filters)
+7. Consider platform algorithm preferences and posting times
+8. Plan for cross-platform content adaptation
 
 Remember: The goal is to inspire others to invest in mentorship while sharing your valuable insights and experiences. Focus on creating content that helps both mentors and mentees succeed.
 
